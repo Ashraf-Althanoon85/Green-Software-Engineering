@@ -1,0 +1,1104 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "name": "bubble_sort",
+      "category": "sorting",
+      "n_param": 4000,
+      "files": [
+        "v1_clean/p01_bubble_sort.py",
+        "v2_medium/p01_bubble_sort.py",
+        "v3_bad/p01_bubble_sort.py"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "insertion_sort",
+      "category": "sorting",
+      "n_param": 6000,
+      "files": [
+        "v1_clean/p02_insertion_sort.py",
+        "v2_medium/p02_insertion_sort.py",
+        "v3_bad/p02_insertion_sort.py"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "selection_sort",
+      "category": "sorting",
+      "n_param": 4500,
+      "files": [
+        "v1_clean/p03_selection_sort.py",
+        "v2_medium/p03_selection_sort.py",
+        "v3_bad/p03_selection_sort.py"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "merge_sort",
+      "category": "sorting",
+      "n_param": 200000,
+      "files": [
+        "v1_clean/p04_merge_sort.py",
+        "v2_medium/p04_merge_sort.py",
+        "v3_bad/p04_merge_sort.py"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "quick_sort",
+      "category": "sorting",
+      "n_param": 150000,
+      "files": [
+        "v1_clean/p05_quick_sort.py",
+        "v2_medium/p05_quick_sort.py",
+        "v3_bad/p05_quick_sort.py"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "heap_sort",
+      "category": "sorting",
+      "n_param": 100000,
+      "files": [
+        "v1_clean/p06_heap_sort.py",
+        "v2_medium/p06_heap_sort.py",
+        "v3_bad/p06_heap_sort.py"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "counting_sort",
+      "category": "sorting",
+      "n_param": 500000,
+      "files": [
+        "v1_clean/p07_counting_sort.py",
+        "v2_medium/p07_counting_sort.py",
+        "v3_bad/p07_counting_sort.py"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "radix_sort",
+      "category": "sorting",
+      "n_param": 200000,
+      "files": [
+        "v1_clean/p08_radix_sort.py",
+        "v2_medium/p08_radix_sort.py",
+        "v3_bad/p08_radix_sort.py"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "shell_sort",
+      "category": "sorting",
+      "n_param": 50000,
+      "files": [
+        "v1_clean/p09_shell_sort.py",
+        "v2_medium/p09_shell_sort.py",
+        "v3_bad/p09_shell_sort.py"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "binary_search",
+      "category": "sorting",
+      "n_param": 50,
+      "files": [
+        "v1_clean/p10_binary_search.py",
+        "v2_medium/p10_binary_search.py",
+        "v3_bad/p10_binary_search.py"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "ternary_search",
+      "category": "sorting",
+      "n_param": 40,
+      "files": [
+        "v1_clean/p11_ternary_search.py",
+        "v2_medium/p11_ternary_search.py",
+        "v3_bad/p11_ternary_search.py"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "exponential_search",
+      "category": "sorting",
+      "n_param": 40,
+      "files": [
+        "v1_clean/p12_exponential_search.py",
+        "v2_medium/p12_exponential_search.py",
+        "v3_bad/p12_exponential_search.py"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "jump_search",
+      "category": "sorting",
+      "n_param": 40,
+      "files": [
+        "v1_clean/p13_jump_search.py",
+        "v2_medium/p13_jump_search.py",
+        "v3_bad/p13_jump_search.py"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "interpolation_search",
+      "category": "sorting",
+      "n_param": 40,
+      "files": [
+        "v1_clean/p14_interpolation_search.py",
+        "v2_medium/p14_interpolation_search.py",
+        "v3_bad/p14_interpolation_search.py"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "linear_scan_max",
+      "category": "sorting",
+      "n_param": 800,
+      "files": [
+        "v1_clean/p15_linear_scan_max.py",
+        "v2_medium/p15_linear_scan_max.py",
+        "v3_bad/p15_linear_scan_max.py"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "kth_smallest",
+      "category": "sorting",
+      "n_param": 1500,
+      "files": [
+        "v1_clean/p16_kth_smallest.py",
+        "v2_medium/p16_kth_smallest.py",
+        "v3_bad/p16_kth_smallest.py"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "median_of_medians",
+      "category": "sorting",
+      "n_param": 80,
+      "files": [
+        "v1_clean/p17_median_of_medians.py",
+        "v2_medium/p17_median_of_medians.py",
+        "v3_bad/p17_median_of_medians.py"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "topk_heap",
+      "category": "sorting",
+      "n_param": 50,
+      "files": [
+        "v1_clean/p18_topk_heap.py",
+        "v2_medium/p18_topk_heap.py",
+        "v3_bad/p18_topk_heap.py"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "bucket_sort",
+      "category": "sorting",
+      "n_param": 200000,
+      "files": [
+        "v1_clean/p19_bucket_sort.py",
+        "v2_medium/p19_bucket_sort.py",
+        "v3_bad/p19_bucket_sort.py"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "comb_sort",
+      "category": "sorting",
+      "n_param": 20000,
+      "files": [
+        "v1_clean/p20_comb_sort.py",
+        "v2_medium/p20_comb_sort.py",
+        "v3_bad/p20_comb_sort.py"
+      ]
+    },
+    {
+      "id": 21,
+      "name": "cocktail_sort",
+      "category": "sorting",
+      "n_param": 3000,
+      "files": [
+        "v1_clean/p21_cocktail_sort.py",
+        "v2_medium/p21_cocktail_sort.py",
+        "v3_bad/p21_cocktail_sort.py"
+      ]
+    },
+    {
+      "id": 22,
+      "name": "gnome_sort",
+      "category": "sorting",
+      "n_param": 3500,
+      "files": [
+        "v1_clean/p22_gnome_sort.py",
+        "v2_medium/p22_gnome_sort.py",
+        "v3_bad/p22_gnome_sort.py"
+      ]
+    },
+    {
+      "id": 23,
+      "name": "pancake_sort",
+      "category": "sorting",
+      "n_param": 1500,
+      "files": [
+        "v1_clean/p23_pancake_sort.py",
+        "v2_medium/p23_pancake_sort.py",
+        "v3_bad/p23_pancake_sort.py"
+      ]
+    },
+    {
+      "id": 24,
+      "name": "stooge_sort",
+      "category": "sorting",
+      "n_param": 300,
+      "files": [
+        "v1_clean/p24_stooge_sort.py",
+        "v2_medium/p24_stooge_sort.py",
+        "v3_bad/p24_stooge_sort.py"
+      ]
+    },
+    {
+      "id": 25,
+      "name": "tim_sort_manual",
+      "category": "sorting",
+      "n_param": 100000,
+      "files": [
+        "v1_clean/p25_tim_sort_manual.py",
+        "v2_medium/p25_tim_sort_manual.py",
+        "v3_bad/p25_tim_sort_manual.py"
+      ]
+    },
+    {
+      "id": 26,
+      "name": "csv_parser",
+      "category": "parsing",
+      "n_param": 500,
+      "files": [
+        "v1_clean/p26_csv_parser.py",
+        "v2_medium/p26_csv_parser.py",
+        "v3_bad/p26_csv_parser.py"
+      ]
+    },
+    {
+      "id": 27,
+      "name": "json_flatten",
+      "category": "parsing",
+      "n_param": 5000,
+      "files": [
+        "v1_clean/p27_json_flatten.py",
+        "v2_medium/p27_json_flatten.py",
+        "v3_bad/p27_json_flatten.py"
+      ]
+    },
+    {
+      "id": 28,
+      "name": "url_parser",
+      "category": "parsing",
+      "n_param": 1500,
+      "files": [
+        "v1_clean/p28_url_parser.py",
+        "v2_medium/p28_url_parser.py",
+        "v3_bad/p28_url_parser.py"
+      ]
+    },
+    {
+      "id": 29,
+      "name": "ini_config_parser",
+      "category": "parsing",
+      "n_param": 2000,
+      "files": [
+        "v1_clean/p29_ini_config_parser.py",
+        "v2_medium/p29_ini_config_parser.py",
+        "v3_bad/p29_ini_config_parser.py"
+      ]
+    },
+    {
+      "id": 30,
+      "name": "log_line_parser",
+      "category": "parsing",
+      "n_param": 200,
+      "files": [
+        "v1_clean/p30_log_line_parser.py",
+        "v2_medium/p30_log_line_parser.py",
+        "v3_bad/p30_log_line_parser.py"
+      ]
+    },
+    {
+      "id": 31,
+      "name": "email_extractor",
+      "category": "parsing",
+      "n_param": 500,
+      "files": [
+        "v1_clean/p31_email_extractor.py",
+        "v2_medium/p31_email_extractor.py",
+        "v3_bad/p31_email_extractor.py"
+      ]
+    },
+    {
+      "id": 32,
+      "name": "tokenizer_simple",
+      "category": "parsing",
+      "n_param": 300,
+      "files": [
+        "v1_clean/p32_tokenizer_simple.py",
+        "v2_medium/p32_tokenizer_simple.py",
+        "v3_bad/p32_tokenizer_simple.py"
+      ]
+    },
+    {
+      "id": 33,
+      "name": "html_tag_stripper",
+      "category": "parsing",
+      "n_param": 400,
+      "files": [
+        "v1_clean/p33_html_tag_stripper.py",
+        "v2_medium/p33_html_tag_stripper.py",
+        "v3_bad/p33_html_tag_stripper.py"
+      ]
+    },
+    {
+      "id": 34,
+      "name": "markdown_to_text",
+      "category": "parsing",
+      "n_param": 600,
+      "files": [
+        "v1_clean/p34_markdown_to_text.py",
+        "v2_medium/p34_markdown_to_text.py",
+        "v3_bad/p34_markdown_to_text.py"
+      ]
+    },
+    {
+      "id": 35,
+      "name": "query_string_parser",
+      "category": "parsing",
+      "n_param": 2000,
+      "files": [
+        "v1_clean/p35_query_string_parser.py",
+        "v2_medium/p35_query_string_parser.py",
+        "v3_bad/p35_query_string_parser.py"
+      ]
+    },
+    {
+      "id": 36,
+      "name": "csv_to_json",
+      "category": "parsing",
+      "n_param": 500,
+      "files": [
+        "v1_clean/p36_csv_to_json.py",
+        "v2_medium/p36_csv_to_json.py",
+        "v3_bad/p36_csv_to_json.py"
+      ]
+    },
+    {
+      "id": 37,
+      "name": "xml_lite_parser",
+      "category": "parsing",
+      "n_param": 500,
+      "files": [
+        "v1_clean/p37_xml_lite_parser.py",
+        "v2_medium/p37_xml_lite_parser.py",
+        "v3_bad/p37_xml_lite_parser.py"
+      ]
+    },
+    {
+      "id": 38,
+      "name": "regex_match_count",
+      "category": "parsing",
+      "n_param": 200,
+      "files": [
+        "v1_clean/p38_regex_match_count.py",
+        "v2_medium/p38_regex_match_count.py",
+        "v3_bad/p38_regex_match_count.py"
+      ]
+    },
+    {
+      "id": 39,
+      "name": "date_format_converter",
+      "category": "parsing",
+      "n_param": 5000,
+      "files": [
+        "v1_clean/p39_date_format_converter.py",
+        "v2_medium/p39_date_format_converter.py",
+        "v3_bad/p39_date_format_converter.py"
+      ]
+    },
+    {
+      "id": 40,
+      "name": "ipv4_validator",
+      "category": "parsing",
+      "n_param": 5000,
+      "files": [
+        "v1_clean/p40_ipv4_validator.py",
+        "v2_medium/p40_ipv4_validator.py",
+        "v3_bad/p40_ipv4_validator.py"
+      ]
+    },
+    {
+      "id": 41,
+      "name": "color_hex_parser",
+      "category": "parsing",
+      "n_param": 8000,
+      "files": [
+        "v1_clean/p41_color_hex_parser.py",
+        "v2_medium/p41_color_hex_parser.py",
+        "v3_bad/p41_color_hex_parser.py"
+      ]
+    },
+    {
+      "id": 42,
+      "name": "phone_normalizer",
+      "category": "parsing",
+      "n_param": 5000,
+      "files": [
+        "v1_clean/p42_phone_normalizer.py",
+        "v2_medium/p42_phone_normalizer.py",
+        "v3_bad/p42_phone_normalizer.py"
+      ]
+    },
+    {
+      "id": 43,
+      "name": "csv_aggregator",
+      "category": "parsing",
+      "n_param": 300,
+      "files": [
+        "v1_clean/p43_csv_aggregator.py",
+        "v2_medium/p43_csv_aggregator.py",
+        "v3_bad/p43_csv_aggregator.py"
+      ]
+    },
+    {
+      "id": 44,
+      "name": "config_merger",
+      "category": "parsing",
+      "n_param": 8000,
+      "files": [
+        "v1_clean/p44_config_merger.py",
+        "v2_medium/p44_config_merger.py",
+        "v3_bad/p44_config_merger.py"
+      ]
+    },
+    {
+      "id": 45,
+      "name": "diff_lines",
+      "category": "parsing",
+      "n_param": 100,
+      "files": [
+        "v1_clean/p45_diff_lines.py",
+        "v2_medium/p45_diff_lines.py",
+        "v3_bad/p45_diff_lines.py"
+      ]
+    },
+    {
+      "id": 46,
+      "name": "word_frequency",
+      "category": "parsing",
+      "n_param": 200,
+      "files": [
+        "v1_clean/p46_word_frequency.py",
+        "v2_medium/p46_word_frequency.py",
+        "v3_bad/p46_word_frequency.py"
+      ]
+    },
+    {
+      "id": 47,
+      "name": "sentence_splitter",
+      "category": "parsing",
+      "n_param": 600,
+      "files": [
+        "v1_clean/p47_sentence_splitter.py",
+        "v2_medium/p47_sentence_splitter.py",
+        "v3_bad/p47_sentence_splitter.py"
+      ]
+    },
+    {
+      "id": 48,
+      "name": "csv_pivot",
+      "category": "parsing",
+      "n_param": 100,
+      "files": [
+        "v1_clean/p48_csv_pivot.py",
+        "v2_medium/p48_csv_pivot.py",
+        "v3_bad/p48_csv_pivot.py"
+      ]
+    },
+    {
+      "id": 49,
+      "name": "json_path_resolver",
+      "category": "parsing",
+      "n_param": 5000,
+      "files": [
+        "v1_clean/p49_json_path_resolver.py",
+        "v2_medium/p49_json_path_resolver.py",
+        "v3_bad/p49_json_path_resolver.py"
+      ]
+    },
+    {
+      "id": 50,
+      "name": "template_renderer",
+      "category": "parsing",
+      "n_param": 3000,
+      "files": [
+        "v1_clean/p50_template_renderer.py",
+        "v2_medium/p50_template_renderer.py",
+        "v3_bad/p50_template_renderer.py"
+      ]
+    },
+    {
+      "id": 51,
+      "name": "prime_sieve",
+      "category": "numerical",
+      "n_param": 5000000,
+      "files": [
+        "v1_clean/p51_prime_sieve.py",
+        "v2_medium/p51_prime_sieve.py",
+        "v3_bad/p51_prime_sieve.py"
+      ]
+    },
+    {
+      "id": 52,
+      "name": "fibonacci_dp",
+      "category": "numerical",
+      "n_param": 5000,
+      "files": [
+        "v1_clean/p52_fibonacci_dp.py",
+        "v2_medium/p52_fibonacci_dp.py",
+        "v3_bad/p52_fibonacci_dp.py"
+      ]
+    },
+    {
+      "id": 53,
+      "name": "matrix_multiply",
+      "category": "numerical",
+      "n_param": 150,
+      "files": [
+        "v1_clean/p53_matrix_multiply.py",
+        "v2_medium/p53_matrix_multiply.py",
+        "v3_bad/p53_matrix_multiply.py"
+      ]
+    },
+    {
+      "id": 54,
+      "name": "matrix_transpose",
+      "category": "numerical",
+      "n_param": 200,
+      "files": [
+        "v1_clean/p54_matrix_transpose.py",
+        "v2_medium/p54_matrix_transpose.py",
+        "v3_bad/p54_matrix_transpose.py"
+      ]
+    },
+    {
+      "id": 55,
+      "name": "dot_product_batch",
+      "category": "numerical",
+      "n_param": 5000,
+      "files": [
+        "v1_clean/p55_dot_product_batch.py",
+        "v2_medium/p55_dot_product_batch.py",
+        "v3_bad/p55_dot_product_batch.py"
+      ]
+    },
+    {
+      "id": 56,
+      "name": "monte_carlo_pi",
+      "category": "numerical",
+      "n_param": 1500000,
+      "files": [
+        "v1_clean/p56_monte_carlo_pi.py",
+        "v2_medium/p56_monte_carlo_pi.py",
+        "v3_bad/p56_monte_carlo_pi.py"
+      ]
+    },
+    {
+      "id": 57,
+      "name": "gcd_batch",
+      "category": "numerical",
+      "n_param": 200000,
+      "files": [
+        "v1_clean/p57_gcd_batch.py",
+        "v2_medium/p57_gcd_batch.py",
+        "v3_bad/p57_gcd_batch.py"
+      ]
+    },
+    {
+      "id": 58,
+      "name": "modular_exponent",
+      "category": "numerical",
+      "n_param": 50000,
+      "files": [
+        "v1_clean/p58_modular_exponent.py",
+        "v2_medium/p58_modular_exponent.py",
+        "v3_bad/p58_modular_exponent.py"
+      ]
+    },
+    {
+      "id": 59,
+      "name": "newton_sqrt",
+      "category": "numerical",
+      "n_param": 200000,
+      "files": [
+        "v1_clean/p59_newton_sqrt.py",
+        "v2_medium/p59_newton_sqrt.py",
+        "v3_bad/p59_newton_sqrt.py"
+      ]
+    },
+    {
+      "id": 60,
+      "name": "polynomial_eval",
+      "category": "numerical",
+      "n_param": 30000,
+      "files": [
+        "v1_clean/p60_polynomial_eval.py",
+        "v2_medium/p60_polynomial_eval.py",
+        "v3_bad/p60_polynomial_eval.py"
+      ]
+    },
+    {
+      "id": 61,
+      "name": "integral_simpson",
+      "category": "numerical",
+      "n_param": 10000,
+      "files": [
+        "v1_clean/p61_integral_simpson.py",
+        "v2_medium/p61_integral_simpson.py",
+        "v3_bad/p61_integral_simpson.py"
+      ]
+    },
+    {
+      "id": 62,
+      "name": "linear_regression",
+      "category": "numerical",
+      "n_param": 500,
+      "files": [
+        "v1_clean/p62_linear_regression.py",
+        "v2_medium/p62_linear_regression.py",
+        "v3_bad/p62_linear_regression.py"
+      ]
+    },
+    {
+      "id": 63,
+      "name": "kmeans_1d",
+      "category": "numerical",
+      "n_param": 30,
+      "files": [
+        "v1_clean/p63_kmeans_1d.py",
+        "v2_medium/p63_kmeans_1d.py",
+        "v3_bad/p63_kmeans_1d.py"
+      ]
+    },
+    {
+      "id": 64,
+      "name": "histogram_compute",
+      "category": "numerical",
+      "n_param": 100,
+      "files": [
+        "v1_clean/p64_histogram_compute.py",
+        "v2_medium/p64_histogram_compute.py",
+        "v3_bad/p64_histogram_compute.py"
+      ]
+    },
+    {
+      "id": 65,
+      "name": "running_stats",
+      "category": "numerical",
+      "n_param": 5000000,
+      "files": [
+        "v1_clean/p65_running_stats.py",
+        "v2_medium/p65_running_stats.py",
+        "v3_bad/p65_running_stats.py"
+      ]
+    },
+    {
+      "id": 66,
+      "name": "discrete_convolution",
+      "category": "numerical",
+      "n_param": 2000,
+      "files": [
+        "v1_clean/p66_discrete_convolution.py",
+        "v2_medium/p66_discrete_convolution.py",
+        "v3_bad/p66_discrete_convolution.py"
+      ]
+    },
+    {
+      "id": 67,
+      "name": "lcm_batch",
+      "category": "numerical",
+      "n_param": 150000,
+      "files": [
+        "v1_clean/p67_lcm_batch.py",
+        "v2_medium/p67_lcm_batch.py",
+        "v3_bad/p67_lcm_batch.py"
+      ]
+    },
+    {
+      "id": 68,
+      "name": "prime_factorization",
+      "category": "numerical",
+      "n_param": 30000,
+      "files": [
+        "v1_clean/p68_prime_factorization.py",
+        "v2_medium/p68_prime_factorization.py",
+        "v3_bad/p68_prime_factorization.py"
+      ]
+    },
+    {
+      "id": 69,
+      "name": "catalan_numbers",
+      "category": "numerical",
+      "n_param": 500,
+      "files": [
+        "v1_clean/p69_catalan_numbers.py",
+        "v2_medium/p69_catalan_numbers.py",
+        "v3_bad/p69_catalan_numbers.py"
+      ]
+    },
+    {
+      "id": 70,
+      "name": "vector_norm",
+      "category": "numerical",
+      "n_param": 20000,
+      "files": [
+        "v1_clean/p70_vector_norm.py",
+        "v2_medium/p70_vector_norm.py",
+        "v3_bad/p70_vector_norm.py"
+      ]
+    },
+    {
+      "id": 71,
+      "name": "edit_distance",
+      "category": "strings",
+      "n_param": 100,
+      "files": [
+        "v1_clean/p71_edit_distance.py",
+        "v2_medium/p71_edit_distance.py",
+        "v3_bad/p71_edit_distance.py"
+      ]
+    },
+    {
+      "id": 72,
+      "name": "longest_common_sub",
+      "category": "strings",
+      "n_param": 100,
+      "files": [
+        "v1_clean/p72_longest_common_sub.py",
+        "v2_medium/p72_longest_common_sub.py",
+        "v3_bad/p72_longest_common_sub.py"
+      ]
+    },
+    {
+      "id": 73,
+      "name": "kmp_search",
+      "category": "strings",
+      "n_param": 1000,
+      "files": [
+        "v1_clean/p73_kmp_search.py",
+        "v2_medium/p73_kmp_search.py",
+        "v3_bad/p73_kmp_search.py"
+      ]
+    },
+    {
+      "id": 74,
+      "name": "rabin_karp",
+      "category": "strings",
+      "n_param": 800,
+      "files": [
+        "v1_clean/p74_rabin_karp.py",
+        "v2_medium/p74_rabin_karp.py",
+        "v3_bad/p74_rabin_karp.py"
+      ]
+    },
+    {
+      "id": 75,
+      "name": "z_algorithm",
+      "category": "strings",
+      "n_param": 1000,
+      "files": [
+        "v1_clean/p75_z_algorithm.py",
+        "v2_medium/p75_z_algorithm.py",
+        "v3_bad/p75_z_algorithm.py"
+      ]
+    },
+    {
+      "id": 76,
+      "name": "manacher_palindrome",
+      "category": "strings",
+      "n_param": 1000,
+      "files": [
+        "v1_clean/p76_manacher_palindrome.py",
+        "v2_medium/p76_manacher_palindrome.py",
+        "v3_bad/p76_manacher_palindrome.py"
+      ]
+    },
+    {
+      "id": 77,
+      "name": "suffix_array_naive",
+      "category": "strings",
+      "n_param": 60,
+      "files": [
+        "v1_clean/p77_suffix_array_naive.py",
+        "v2_medium/p77_suffix_array_naive.py",
+        "v3_bad/p77_suffix_array_naive.py"
+      ]
+    },
+    {
+      "id": 78,
+      "name": "anagram_groups",
+      "category": "strings",
+      "n_param": 30000,
+      "files": [
+        "v1_clean/p78_anagram_groups.py",
+        "v2_medium/p78_anagram_groups.py",
+        "v3_bad/p78_anagram_groups.py"
+      ]
+    },
+    {
+      "id": 79,
+      "name": "longest_repeated_sub",
+      "category": "strings",
+      "n_param": 50,
+      "files": [
+        "v1_clean/p79_longest_repeated_sub.py",
+        "v2_medium/p79_longest_repeated_sub.py",
+        "v3_bad/p79_longest_repeated_sub.py"
+      ]
+    },
+    {
+      "id": 80,
+      "name": "boyer_moore_lite",
+      "category": "strings",
+      "n_param": 800,
+      "files": [
+        "v1_clean/p80_boyer_moore_lite.py",
+        "v2_medium/p80_boyer_moore_lite.py",
+        "v3_bad/p80_boyer_moore_lite.py"
+      ]
+    },
+    {
+      "id": 81,
+      "name": "string_rotation",
+      "category": "strings",
+      "n_param": 100000,
+      "files": [
+        "v1_clean/p81_string_rotation.py",
+        "v2_medium/p81_string_rotation.py",
+        "v3_bad/p81_string_rotation.py"
+      ]
+    },
+    {
+      "id": 82,
+      "name": "run_length_encoding",
+      "category": "strings",
+      "n_param": 100000,
+      "files": [
+        "v1_clean/p82_run_length_encoding.py",
+        "v2_medium/p82_run_length_encoding.py",
+        "v3_bad/p82_run_length_encoding.py"
+      ]
+    },
+    {
+      "id": 83,
+      "name": "soundex",
+      "category": "strings",
+      "n_param": 200000,
+      "files": [
+        "v1_clean/p83_soundex.py",
+        "v2_medium/p83_soundex.py",
+        "v3_bad/p83_soundex.py"
+      ]
+    },
+    {
+      "id": 84,
+      "name": "longest_prefix",
+      "category": "strings",
+      "n_param": 5000,
+      "files": [
+        "v1_clean/p84_longest_prefix.py",
+        "v2_medium/p84_longest_prefix.py",
+        "v3_bad/p84_longest_prefix.py"
+      ]
+    },
+    {
+      "id": 85,
+      "name": "palindrome_partition",
+      "category": "strings",
+      "n_param": 200,
+      "files": [
+        "v1_clean/p85_palindrome_partition.py",
+        "v2_medium/p85_palindrome_partition.py",
+        "v3_bad/p85_palindrome_partition.py"
+      ]
+    },
+    {
+      "id": 86,
+      "name": "bst_operations",
+      "category": "ds_graph",
+      "n_param": 50000,
+      "files": [
+        "v1_clean/p86_bst_operations.py",
+        "v2_medium/p86_bst_operations.py",
+        "v3_bad/p86_bst_operations.py"
+      ]
+    },
+    {
+      "id": 87,
+      "name": "avl_tree_ops",
+      "category": "ds_graph",
+      "n_param": 30000,
+      "files": [
+        "v1_clean/p87_avl_tree_ops.py",
+        "v2_medium/p87_avl_tree_ops.py",
+        "v3_bad/p87_avl_tree_ops.py"
+      ]
+    },
+    {
+      "id": 88,
+      "name": "heap_operations",
+      "category": "ds_graph",
+      "n_param": 500000,
+      "files": [
+        "v1_clean/p88_heap_operations.py",
+        "v2_medium/p88_heap_operations.py",
+        "v3_bad/p88_heap_operations.py"
+      ]
+    },
+    {
+      "id": 89,
+      "name": "hashmap_chaining",
+      "category": "ds_graph",
+      "n_param": 200000,
+      "files": [
+        "v1_clean/p89_hashmap_chaining.py",
+        "v2_medium/p89_hashmap_chaining.py",
+        "v3_bad/p89_hashmap_chaining.py"
+      ]
+    },
+    {
+      "id": 90,
+      "name": "trie_operations",
+      "category": "ds_graph",
+      "n_param": 30000,
+      "files": [
+        "v1_clean/p90_trie_operations.py",
+        "v2_medium/p90_trie_operations.py",
+        "v3_bad/p90_trie_operations.py"
+      ]
+    },
+    {
+      "id": 91,
+      "name": "union_find",
+      "category": "ds_graph",
+      "n_param": 1000000,
+      "files": [
+        "v1_clean/p91_union_find.py",
+        "v2_medium/p91_union_find.py",
+        "v3_bad/p91_union_find.py"
+      ]
+    },
+    {
+      "id": 92,
+      "name": "bfs_traversal",
+      "category": "ds_graph",
+      "n_param": 5000,
+      "files": [
+        "v1_clean/p92_bfs_traversal.py",
+        "v2_medium/p92_bfs_traversal.py",
+        "v3_bad/p92_bfs_traversal.py"
+      ]
+    },
+    {
+      "id": 93,
+      "name": "dfs_traversal",
+      "category": "ds_graph",
+      "n_param": 5000,
+      "files": [
+        "v1_clean/p93_dfs_traversal.py",
+        "v2_medium/p93_dfs_traversal.py",
+        "v3_bad/p93_dfs_traversal.py"
+      ]
+    },
+    {
+      "id": 94,
+      "name": "dijkstra_path",
+      "category": "ds_graph",
+      "n_param": 1500,
+      "files": [
+        "v1_clean/p94_dijkstra_path.py",
+        "v2_medium/p94_dijkstra_path.py",
+        "v3_bad/p94_dijkstra_path.py"
+      ]
+    },
+    {
+      "id": 95,
+      "name": "topological_sort",
+      "category": "ds_graph",
+      "n_param": 8000,
+      "files": [
+        "v1_clean/p95_topological_sort.py",
+        "v2_medium/p95_topological_sort.py",
+        "v3_bad/p95_topological_sort.py"
+      ]
+    },
+    {
+      "id": 96,
+      "name": "connected_components",
+      "category": "ds_graph",
+      "n_param": 10000,
+      "files": [
+        "v1_clean/p96_connected_components.py",
+        "v2_medium/p96_connected_components.py",
+        "v3_bad/p96_connected_components.py"
+      ]
+    },
+    {
+      "id": 97,
+      "name": "cycle_detect",
+      "category": "ds_graph",
+      "n_param": 6000,
+      "files": [
+        "v1_clean/p97_cycle_detect.py",
+        "v2_medium/p97_cycle_detect.py",
+        "v3_bad/p97_cycle_detect.py"
+      ]
+    },
+    {
+      "id": 98,
+      "name": "linked_list_reverse",
+      "category": "ds_graph",
+      "n_param": 30000,
+      "files": [
+        "v1_clean/p98_linked_list_reverse.py",
+        "v2_medium/p98_linked_list_reverse.py",
+        "v3_bad/p98_linked_list_reverse.py"
+      ]
+    },
+    {
+      "id": 99,
+      "name": "queue_stack_simulator",
+      "category": "ds_graph",
+      "n_param": 500000,
+      "files": [
+        "v1_clean/p99_queue_stack_simulator.py",
+        "v2_medium/p99_queue_stack_simulator.py",
+        "v3_bad/p99_queue_stack_simulator.py"
+      ]
+    },
+    {
+      "id": 100,
+      "name": "lru_cache",
+      "category": "ds_graph",
+      "n_param": 200000,
+      "files": [
+        "v1_clean/p100_lru_cache.py",
+        "v2_medium/p100_lru_cache.py",
+        "v3_bad/p100_lru_cache.py"
+      ]
+    }
+  ]
+}
